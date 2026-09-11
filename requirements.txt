@@ -1,3 +1,10 @@
 
 plotly
 requests
+streamlit
+folium
+streamlit-folium
+geopandas
+pandas
+numpy
+branca
